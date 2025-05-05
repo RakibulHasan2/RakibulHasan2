@@ -4,7 +4,7 @@
 <h3 align="center">MERN Developer | Anime Fan</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohc1292T5zsYqsO7m/giphy.gif" width="400" alt="Anime Coding" />
+  <img src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/b8987a5cdc34fed1-61/s540x810/d3d06e0239eebb8f582331f1cfde0b7eea6d1a21.gif" width="400" alt="Anime Coding" />
 </p>
 
 ---
