@@ -1,7 +1,7 @@
 <!-- Rakibul Hasan's Anime-themed GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
-<h3 align="center">MERN Developer | Anime Fan</h3>
+<h3 align="center">Full Stack Engineer | Anime Fan</h3>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/b8987a5cdc34fed1-61/s540x810/d3d06e0239eebb8f582331f1cfde0b7eea6d1a21.gif" width="800" alt="Anime Coding" />
@@ -10,7 +10,7 @@
 ---
 
 > 🧠 *"In the realm of code, I find my ninja way."*  
-> 🔥 MERN Developer blending the power of JavaScript.
+> 🔥 Full Stack Engineer blending the power of JavaScript.
 
 ---
 
@@ -19,7 +19,7 @@
 - 🔭 Working on: **E-commerce project for a USA client**
 - 🌱 Learning: **Docker & AWS Basics for deployment**
 - 📫 Email: [rakibulhasan99445@gmail.com](mailto:rakibulhasan99445@gmail.com)
-- 🌍 Portfolio: [https://portfolio-v2-delta-eight.vercel.app/](https://portfolio-v2-delta-eight.vercel.app/)
+- 🌍 Portfolio: [www.dev-rakib.me](https://www.dev-rakib.me/)
 - 📄 [My Resume](https://drive.google.com/file/d/135LyJiiJvw3AJZwHBizIXDdrruZcD0jo/view?usp=drive_link)
 
 ---
